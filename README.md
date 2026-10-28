@@ -158,5 +158,5 @@ python code_projet.py
 
 Projet réalisé en **Avril 2026** par :
 - **James Duburcq** — [@jamesduburcq](https://github.com/jamesduburcq)
-- **Raphaël Rideau**
-- **Orion Routhier**
+- **Raphaël Rideau** 
+- **Orion Routhier** - [@OrionRouthier](https://github.com/OrionRouthier)
